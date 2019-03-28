@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: #00BFA5;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -16,6 +16,7 @@
 
 h1, h2, h3, h4 {
     font-family: 'Roboto';
+    color:#01579B;
 }
 
 .date {
@@ -43,5 +44,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #000000;
+    color:#01579B;
 }
